@@ -10,11 +10,11 @@ or
 
 ## Import
 
-const randomID = require('your-package-name');
+const randomId = require("@katsobieska/id-generator-app");
 
 ## Usage
 
-randomID(x);
+randomId(x);
 x = expected length of ID
 
 ## Links
