@@ -4,9 +4,9 @@ Short app dedicated for generation of random string with letters and numbers inc
 
 ## Getting started
 
-`npm install @katsobieska/id-generator-app@1.0.2`
+`npm install @katsobieska/id-generator-app@1.0.4`
 or
-`yarn install @katsobieska/id-generator-app@1.0.2`
+`yarn install @katsobieska/id-generator-app@1.0.4`
 
 ## Import
 
