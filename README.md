@@ -5,3 +5,6 @@ Short app dedicated for generation of random string with letters and numbers inc
 Getting started
 npm install @katsobieska/id-generator-app@1.0.1 or
 yarn install @katsobieska/id-generator-app@1.0.1
+
+
+https://www.npmjs.com/package/@katsobieska/id-generator-app
